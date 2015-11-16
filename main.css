@@ -1,0 +1,43 @@
+* {
+	font-style: "Helvetica";
+	background-color: #D0D0D0;
+}
+h1 {
+	text-align: center;
+}
+
+img {
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0
+	padding: 0;
+	background-color: black;
+}
+
+li {
+	background-color: black;
+	display: inline;
+	font-size: 20px;
+	text-align: center;
+}
+#politics {
+	color: #990066;
+}
+#business {
+	color: #66FFFF;
+}
+#technology {
+	color: #FF6600;
+}
+#art {
+	color: #33CC00;	
+}
+#philanthropy {
+	color: #6633FF;
+}
+#fashion {
+	color: #FFFF33;
+}
